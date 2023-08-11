@@ -1,6 +1,7 @@
 /* Global Styles */
 @import url(../assets/css/reset.css);
 @import url(../assets/css/variable.css);
+
 * {
   margin: 0;
 }
